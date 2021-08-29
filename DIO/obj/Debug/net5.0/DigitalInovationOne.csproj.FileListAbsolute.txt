@@ -1,0 +1,16 @@
+C:\Users\mv01\Desktop\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.exe
+C:\Users\mv01\Desktop\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.deps.json
+C:\Users\mv01\Desktop\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.json
+C:\Users\mv01\Desktop\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.dev.json
+C:\Users\mv01\Desktop\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.dll
+C:\Users\mv01\Desktop\DigitalInovationOne\bin\Debug\net5.0\ref\DigitalInovationOne.dll
+C:\Users\mv01\Desktop\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.pdb
+C:\Users\mv01\Desktop\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csproj.AssemblyReference.cache
+C:\Users\mv01\Desktop\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mv01\Desktop\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\Users\mv01\Desktop\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfo.cs
+C:\Users\mv01\Desktop\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\Users\mv01\Desktop\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.dll
+C:\Users\mv01\Desktop\DigitalInovationOne\obj\Debug\net5.0\ref\DigitalInovationOne.dll
+C:\Users\mv01\Desktop\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.pdb
+C:\Users\mv01\Desktop\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.genruntimeconfig.cache
